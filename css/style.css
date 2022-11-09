@@ -7,9 +7,18 @@
 }
 
 .container{
-   max-width: 1800px;
    margin: 0 auto;
 }
+
+[class*="col-"]{
+   line-height: 3rem;
+   height: 4rem;
+   max-width: 1900px;
+   background-color: #5f5fe1;
+   text-align: center;
+   padding: .5rem;
+}
+
 
 
 .nasted-col-2{
@@ -17,7 +26,6 @@
    background-color: rgb(135, 197, 42);
    border: 1px solid #5f5fe1;
    height: 3rem;
-
 }
 
 .nasted-col-8{
@@ -25,7 +33,6 @@
    background-color: rgb(135, 197, 42);
    border: 1px solid #5f5fe1;
    height: 3rem;
-
 }
 
 .nasted-col-6{
@@ -33,15 +40,6 @@
    background-color: rgb(135, 197, 42);
    border: 1px solid #5f5fe1;
    height: 3rem;
-
-
 }
 
-.padding-col-6{
-   padding: .7rem;
-   flex-basis: calc((100% / 12) * 6); 
-   margin-bottom: 1rem;
-   height: 4.5rem;
 
-   
-}

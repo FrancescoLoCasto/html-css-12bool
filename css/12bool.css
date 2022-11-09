@@ -14,11 +14,6 @@
    border: 1px solid white;
    flex-grow: 0;
    flex-shrink: 0;
-   line-height: 3rem;
-   height: 3.5rem;
-   background-color: #5f5fe1;
-   text-align: center;
-
 }
 
 
@@ -26,6 +21,7 @@
 
 .col-1{
    flex-basis: calc((100% / 12) * 1); 
+
 }
 
 .col-2{
