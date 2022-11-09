@@ -6,6 +6,8 @@
    flex-wrap: wrap;
 }
 
+
+
 /* Utility columns and nasted */
 
 [class*="col-"]{
@@ -13,8 +15,10 @@
    flex-grow: 0;
    flex-shrink: 0;
    line-height: 3rem;
+   height: 3.5rem;
    background-color: #5f5fe1;
    text-align: center;
+
 }
 
 
