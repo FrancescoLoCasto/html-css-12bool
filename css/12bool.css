@@ -17,33 +17,6 @@
    text-align: center;
 }
 
-.nasted-col-2{
-   flex-basis: calc((100% / 12) * 2); 
-   background-color: rgb(135, 197, 42);
-   border: 1px solid #5f5fe1;
-
-
-}
-
-.nasted-col-8{
-   flex-basis: calc((100% / 12) * 8); 
-   background-color: rgb(135, 197, 42);
-   border: 1px solid #5f5fe1;
-}
-
-.nasted-col-6{
-   flex-basis: calc((100% / 12) * 6); 
-   background-color: rgb(135, 197, 42);
-   border: 1px solid #5f5fe1;
-
-}
-
-.padding-col-6{
-   padding: 1rem;
-   flex-basis: calc((100% / 12) * 6); 
-   margin-bottom: 1rem;
-   
-}
 
 /* Creation of columns */
 
