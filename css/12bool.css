@@ -6,6 +6,18 @@
    flex-wrap: wrap;
 }
 
+/* Utility columns */
+
+[class*="col-"]{
+   border: 2px solid white;
+   flex-grow: 0;
+   flex-shrink: 0;
+   line-height: 3rem;
+   height: 3.5rem;
+   background-color: rgb(95, 95, 225);
+   text-align: center;
+}
+
 /* Creation of columns */
 
 .col-1{
