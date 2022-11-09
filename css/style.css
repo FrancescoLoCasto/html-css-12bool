@@ -17,6 +17,7 @@ main{
 }
 
 
+
 .nasted-col-2{
    flex-basis: calc((100% / 12) * 2); 
    background-color: rgb(135, 197, 42);
