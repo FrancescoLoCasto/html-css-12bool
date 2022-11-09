@@ -11,12 +11,6 @@
    margin: 0 auto;
 }
 
-main{
-   height: 100vh;
-   background-color: magenta;
-}
-
-
 
 .nasted-col-2{
    flex-basis: calc((100% / 12) * 2); 
