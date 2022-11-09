@@ -9,17 +9,18 @@
 /* Utility columns and nasted */
 
 [class*="col-"]{
-   border: 2px solid white;
+   border: 1px solid white;
    flex-grow: 0;
    flex-shrink: 0;
    line-height: 3rem;
-   background-color: rgb(95, 95, 225);
+   background-color: #5f5fe1;
    text-align: center;
 }
 
 .nasted-col-2{
    flex-basis: calc((100% / 12) * 2); 
    background-color: rgb(135, 197, 42);
+   border: 1px solid #5f5fe1;
 
 
 }
@@ -27,13 +28,13 @@
 .nasted-col-8{
    flex-basis: calc((100% / 12) * 8); 
    background-color: rgb(135, 197, 42);
-
-
+   border: 1px solid #5f5fe1;
 }
 
 .nasted-col-6{
    flex-basis: calc((100% / 12) * 6); 
    background-color: rgb(135, 197, 42);
+   border: 1px solid #5f5fe1;
 
 }
 
@@ -41,6 +42,7 @@
    padding: 1rem;
    flex-basis: calc((100% / 12) * 6); 
    margin-bottom: 1rem;
+   
 }
 
 /* Creation of columns */
