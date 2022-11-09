@@ -16,7 +16,7 @@
    flex-basis: calc((100% / 12) * 2); 
    background-color: rgb(135, 197, 42);
    border: 1px solid #5f5fe1;
-   height: 2.5rem;
+   height: 3rem;
 
 }
 
@@ -24,7 +24,7 @@
    flex-basis: calc((100% / 12) * 8); 
    background-color: rgb(135, 197, 42);
    border: 1px solid #5f5fe1;
-   height: 2.5rem;
+   height: 3rem;
 
 }
 
@@ -32,15 +32,16 @@
    flex-basis: calc((100% / 12) * 6); 
    background-color: rgb(135, 197, 42);
    border: 1px solid #5f5fe1;
-   height: 2.5rem;
+   height: 3rem;
 
 
 }
 
 .padding-col-6{
-   padding: .5rem;
+   padding: .7rem;
    flex-basis: calc((100% / 12) * 6); 
    margin-bottom: 1rem;
+   height: 4.5rem;
 
    
 }
